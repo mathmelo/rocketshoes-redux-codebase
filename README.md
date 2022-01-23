@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+<h1 align="center">Rocketshoes</h1>
+<p align="center">🚀 E-commerce made with react, redux and redux-saga</p>
+<p align="center">
+  <img alt="NPM" src="https://img.shields.io/github/license/mathmelo/rocketshoes-redux-codebase">
+  <img alt="NPM" src="https://img.shields.io/github/issues/mathmelo/rocketshoes-redux-codebase">
+  <img alt="NPM" src="https://img.shields.io/github/forks/mathmelo/rocketshoes-redux-codebase">
+  <img alt="NPM" src="https://img.shields.io/github/stars/mathmelo/rocketshoes-redux-codebase">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+ <a href="#-objective">objective</a> •
+ <a href="#-roadmap">roadmap</a> • 
+ <a href="#-technologies">technologies</a> • 
+ <a href="#-author">author</a>
+</div>
 
-## Available Scripts
+---
+</br>
+<p align="center" >
+  <img src="./.github/Main.jpg" height="250" margin-top="400">
+  <img src="./.github/Cart.jpg" height="250" margin-top="400">
+</p>
 
-In the project directory, you can run:
+## 💡 Objective
+<p>The main purpose of this app was to train my redux and redux-saga concepts with react.
+Basically, the app is a shoe e-commerce, which works with state sharing between the catalog component and the shopping cart component.</p>
 
-### `yarn start`
+## 🎌 Roadmap
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
+Before starting, you will need to have the following tools installed on your machine:
+<ul>
+  <li><a href="https://git-scm.com">Git</a></li>
+  <li><a href="https://nodejs.org/en/">Node</a></li>
+  <li><a href="https://yarnpkg.com/getting-started/install">Yarn</a></li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can also use npm, but we seriously recommend yarn.
 
-### `yarn test`
+Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Running the Back End (server)
 
-### `yarn build`
+**Execute the commands**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone this repository
+$ git clone https://github.com/mathmelo/GoBarber-NodeJS-Backend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Access the project folder in the terminal/cmd
+$cd rocketshoes-redux-codebase
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Install dependencies
+$ yarn
 
-### `yarn eject`
+# The application must run on two nodes. If you are using VsCode, just open a terminal for each of these commands
+# Run server
+$ yarn server
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Run the application in development mode
+$ yarn start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# The server will start on port:3000 - go to <http://localhost:3000>
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💜 Technologies
+- Javascript
+- ReactJS
+- Redux
+- Redux Saga
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🤓 Author
 
-## Learn More
+Informations about [me](https://github.com/mathmelo).
+Send me a message! ;)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h4 align="center"> 
+	🚧  Rocketshoes 🚀 Only for study...  🚧</br>
+</h4>
