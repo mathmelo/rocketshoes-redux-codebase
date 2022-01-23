@@ -11,7 +11,6 @@
  <a href="#-objective">objective</a> •
  <a href="#-roadmap">roadmap</a> • 
  <a href="#-technologies">technologies</a> • 
- <a href="#-licence">license</a> • 
  <a href="#-author">author</a>
 </div>
 
@@ -77,5 +76,4 @@ Send me a message! ;)
 
 <h4 align="center"> 
 	🚧  Rocketshoes 🚀 Only for study...  🚧</br>
-  <strong>Building docs</strong>
 </h4>
