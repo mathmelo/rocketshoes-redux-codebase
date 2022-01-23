@@ -1,0 +1,40 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb",
+        "prettier"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 13,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "prettier"
+    ],
+    "rules": {
+      "prettier/prettier": "error",
+      "react/state-in-constructor": ["error", "never"],
+      "react/jsx-filename-extension": [
+          "warn",
+          {
+              "extensions": [".jsx", ".js"]
+          }
+      ],
+      "import/prefer-default-export": "off",
+      "'no-unsafe-optional-chaining'":"off",
+      "react/function-component-definition": "off",
+      "react/static-property-placement": ["warn", "static public field"],
+      "no-console": ["error", { "allow": ["tron"] }],
+      "default-param-last": ["off"],
+      "no-param-reassign": "off",
+      "react/require-default-props": "off"
+    }
+}
