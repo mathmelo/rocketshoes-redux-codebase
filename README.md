@@ -4,8 +4,8 @@
 <p align="center">🚀 E-commerce made with react, redux and redux-saga</p>
 <p align="center">
   <img alt="NPM" src="https://img.shields.io/github/license/mathmelo/rocketshoes-redux-codebase">
-  <img alt="NPM" src="https://img.shields.io/github/issues/mathmelo/rocketshoes-redux-codebase">
   <img alt="NPM" src="https://img.shields.io/github/forks/mathmelo/rocketshoes-redux-codebase">
+  <img alt="NPM" src="https://img.shields.io/github/issues/mathmelo/rocketshoes-redux-codebase">
   <img alt="NPM" src="https://img.shields.io/github/stars/mathmelo/rocketshoes-redux-codebase">
 </p>
 
