@@ -1,4 +1,6 @@
-<h1 align="center">Rocketshoes</h1>
+<p align="center">
+  <img src="./.github/logo.png" width="350">
+</p>
 <p align="center">🚀 E-commerce made with react, redux and redux-saga</p>
 <p align="center">
   <img alt="NPM" src="https://img.shields.io/github/license/mathmelo/rocketshoes-redux-codebase">
