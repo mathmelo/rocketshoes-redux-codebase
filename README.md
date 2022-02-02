@@ -41,7 +41,7 @@ You can also use npm, but we seriously recommend yarn.
 
 Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
-### Running the Back End (server)
+### Running the Server
 
 **Execute the commands**
 
