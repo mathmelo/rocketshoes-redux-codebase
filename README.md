@@ -47,7 +47,7 @@ Also it's nice to have an editor to work with the code like [VSCode](https://cod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mathmelo/GoBarber-NodeJS-Backend
+$ git clone https://github.com/mathmelo/rocketshoes-redux-codebase
 
 # Access the project folder in the terminal/cmd
 $cd rocketshoes-redux-codebase
